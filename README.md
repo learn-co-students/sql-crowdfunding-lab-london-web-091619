@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-* Identify table example  
+* Identify table example
 * Create a new table, records, and queries
 
 ## Identify Table Example
@@ -32,7 +32,7 @@ And get back the inserted data (represented in a table below)
 
 ```text
 id                 name        quantity      aisle
-------------    ----------  ----------  ----------  
+------------    ----------  ----------  ----------
 1                Apples          2          1
 2                Oranges         4          2
 3                Peaches         6          3
